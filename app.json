@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "mobile",
+    "name": "geolocalizacao",
     "slug": "mobile",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,14 +17,21 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.paulombunga.geolocalizacao"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
-    },
+      },
+      
+        "package": "com.paulombunga.geolocalizacao",
+        "config": {
+          "googleMaps": { "apiKey": "AIzaSyDwsk-S-21_lj1nA-mt4xvWihIkoYDNhsw" }   
+       }
+      
+      },
     "web": {
       "favicon": "./assets/favicon.png"
     }

@@ -1,0 +1,15 @@
+{
+    "data": [ 
+        {"name": "Cabinda", "code": "01","provincia": "01"},
+        {"name": "Cacongo", "code": "02","provincia": "01"},
+        {"name": "Buco Zau", "code": "03","provincia": "01"},
+        {"name": "Belize", "code": "04","provincia": "01"}, 
+        
+        {"name": "Soyo", "code": "01","provincia": "02"},
+        {"name": "Mbanza Congo", "code": "02","provincia": "02"},
+        {"name": "Nzeto", "code": "03","provincia": "02"},
+        {"name": "Tomboco", "code": "04","provincia": "02"},
+        {"name": "Cuimba", "code": "05","provincia": "02"},
+        {"name": "Nóqui", "code": "06","provincia": "02"},
+    ]
+}

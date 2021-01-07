@@ -1,0 +1,22 @@
+{
+    "data": [ 
+        {"name": "Cabinda", "code": "01"}, 
+        {"name": "Zaire", "code": "02"}, 
+        {"name": "Uige", "code": "03"}, 
+        {"name": "Bengo", "code": "04"}, 
+        {"name": "Luanda", "code": "05"}, 
+        {"name": "aa", "code": "06"}, 
+        {"name": "Cuanza-Sul", "code": "07"}, 
+        {"name": "Malange", "code": "08"}, 
+        {"name": "Lunda-Norte", "code": "09"}, 
+        {"name": "Lunda-Sul", "code": "10"}, 
+        {"name": "Moxico", "code": "11"}, 
+        {"name": "ab", "code": "12"}, 
+        {"name": "Huambo", "code": "13"}, 
+        {"name": "Benguela", "code": "14"}, 
+        {"name": "a", "code": "15"}, 
+        {"name": "Huila", "code": "16"}, 
+        {"name": "Cunene", "code": "17"}, 
+        {"name": "Zimbabwe", "code": "18"} 
+    ]
+}
