@@ -62,12 +62,13 @@ export default function Map() {
       <MapView 
       provider={PROVIDER_GOOGLE}
       style={styles.map}
-      initialRegion={{
+      region={{
         latitude: initialPosition[0],
         longitude: initialPosition[1],
-        latitudeDelta:  0.004757,
-        longitudeDelta: 0.006866,
+        latitudeDelta: 0.0143,
+        longitudeDelta: 0.0143,
       }}
+      
         >
         <Marker
         
@@ -81,7 +82,7 @@ export default function Map() {
 </MapView>  
 
       <RectButton style={styles.nextButton} onPress={chamarPaginaCadastro}>
-          <Text style={styles.nextButtonText}>Cadastrar</Text>
+          <Text style={styles.nextButtonText}>Ir para o Cadastro</Text>
      </RectButton>
      
     </View>

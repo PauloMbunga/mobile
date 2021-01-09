@@ -160,9 +160,7 @@ export default function Cadastro(){
 
 
     useEffect(()=>{ 
-
       
-
       api.get('provincias').then(response =>{
         const prov=  response.data; 
           setProvincias(prov);
